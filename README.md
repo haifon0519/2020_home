@@ -23,3 +23,17 @@ big zone
 
 - [ ] todo list
 - [x] done
+
+```js
+
+function square(number) {
+  return number * number;
+}
+
+```
+
+```py
+def function_name(parameters):
+	"""docstring"""
+	statement(s)
+```
