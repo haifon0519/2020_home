@@ -7,6 +7,6 @@
 `small zone
 1`
 ```big zone
-2````
+2```
 
 ![NKFUST](nkfust.png "第一科大")
