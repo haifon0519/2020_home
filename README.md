@@ -4,7 +4,7 @@
 #### 陳靖慈
 ##### 陳靖慈
 ###### 陳靖慈
-
+---
 `
 small zone
 1
@@ -24,16 +24,23 @@ big zone
 - [ ] todo list
 - [x] done
 
-```js
+---
 
+```js
 function square(number) {
   return number * number;
 }
-
 ```
+
+---
 
 ```py
 def function_name(parameters):
 	"""docstring"""
 	statement(s)
 ```
+
+---
+
+:stuck_out_tongue_winking_eye:
+:pushpin:
